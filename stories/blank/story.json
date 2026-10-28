@@ -11,8 +11,9 @@
     "battery": 94,
     "network": "5G",
     "wallpaper": "apple-wwdc26"
+"passcode": "0315"
   },
-  "passcode": "0315"
+  
   "installedApps": [
     "appstore",
     "phone",
